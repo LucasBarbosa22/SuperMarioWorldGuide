@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperMarioWorldGuide</string>
+    <string name="sobre">SOBRE</string>
+    <string name="hist_ria">HISTÓRIA</string>
+    <string name="personagens">PERSONAGENS</string>
+    <string name="mundos">MUNDOS</string>
+</resources>
