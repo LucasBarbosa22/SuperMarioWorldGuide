@@ -12,15 +12,16 @@
         style="@style/Widget.AppCompat.Button.Small"
         android:layout_width="150dp"
         android:layout_height="54dp"
-        android:layout_marginTop="48dp"
         android:background="@drawable/colorbutton"
         android:fontFamily="@font/alata"
         android:text="@string/sobre"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:layout_constraintVertical_bias="0.092"
         tools:ignore="MissingConstraints" />
 
     <Button
@@ -28,15 +29,17 @@
         style="@style/Widget.AppCompat.Button"
         android:layout_width="150dp"
         android:layout_height="54dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="30dp"
         android:background="@drawable/colorbutton"
         android:fontFamily="@font/alata"
         android:text="@string/personagens"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/historia" />
+        app:layout_constraintTop_toBottomOf="@+id/historia"
+        app:layout_constraintVertical_bias="0.0" />
 
     <Button
         android:id="@+id/mundos"
@@ -44,16 +47,17 @@
         android:layout_width="150dp"
         android:layout_height="54dp"
         android:layout_marginTop="30dp"
+        android:layout_marginBottom="84dp"
         android:background="@drawable/colorbutton"
         android:fontFamily="@font/alata"
         android:text="@string/mundos"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/textView6"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/personagens"
-        app:layout_constraintVertical_bias="0.028" />
+        app:layout_constraintVertical_bias="0.0" />
 
     <Button
         android:id="@+id/historia"
@@ -65,7 +69,7 @@
         android:fontFamily="@font/alata"
         android:text="@string/hist_ria"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/personagens"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -80,31 +84,31 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.064"
+        app:layout_constraintVertical_bias="0.03"
         app:srcCompat="@drawable/super_mario_world_game_logo_svg" />
 
     <TextView
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
         android:fontFamily="@font/alata"
         android:text="CONHEÇA MAIS SOBRE O JOGO"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="16sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/sobre"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.698" />
+        app:layout_constraintVertical_bias="0.281" />
 
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
         android:fontFamily="@font/alata"
         android:text="COPYRIGTH &quot;2023&quot; - TODOS OS DIREITOS RESERVADOS"
         android:textAlignment="center"
@@ -114,7 +118,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/mundos"
-        app:layout_constraintVertical_bias="0.682" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
