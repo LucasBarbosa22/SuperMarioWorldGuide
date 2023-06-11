@@ -1,56 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:background="@drawable/design_sem_nome__2_"
-    tools:context=".HistoriaAct">
+    android:contentDescription="@string/scroll"
+    android:fillViewport="true"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp">
 
     <ScrollView
-        android:layout_width="411dp"
-        android:layout_height="824dp"
-        android:fillViewport="true"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="-18dp">
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
 
-        <TextView
-            android:id="@+id/textView4"
-            android:layout_width="310dp"
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="228dp"
-            android:fontFamily="@font/alata"
-            android:text="Após trazer paz ao Mushroom World em Super Mario Bros. 3, os destemidos irmãos Mario e Luigi decidem aproveitar um merecido descanso com a Princesa Peach em um local chamado Dinosaur Land. Esse mundo pré-histórico, repleto de dinossauros e perigosos inimigos. No entanto, enquanto desfrutam de um momento relaxante na praia, Bowser, o vilão, captura a princesa.\n\n
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="UseCompoundDrawables">
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="280dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="65dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/_3" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="35dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/alata"
+                android:text="Após trazer paz ao Mushroom World em Super Mario Bros. 3, os destemidos irmãos Mario e Luigi decidem aproveitar um merecido descanso com a Princesa Peach em um local chamado Dinosaur Land. Esse mundo pré-histórico, repleto de dinossauros e perigosos inimigos. No entanto, enquanto desfrutam de um momento relaxante na praia, Bowser, o vilão, captura a princesa.\n\n
 Quando Mario e Luigi despertam, eles se dedicam a encontrá-la. Após uma exaustiva busca, eles se deparam com um ovo gigante na densa floresta. De repente, o ovo se rompe e dele sai um dinossauro chamado Yoshi. Ele revela aos irmãos que seus companheiros dinossauros também foram aprisionados em ovos pelos mal-intencionados Koopalings, os capangas de Bowser. Agora, Mario, Luigi e Yoshi unem forças para resgatar a Princesa Peach e libertar os amigos de Yoshi, enquanto atravessam toda a extensão da Dinosaur Land em uma perigosa busca por Bowser e seus servos.\n\n
 Ao iniciar essa jornada, Yoshi presenteia Mario com uma capa especial que os ajudará em suas investidas. Os irmãos continuam empenhados em perseguir Bowser, enfrentando e derrotando os Koopalings ao longo do caminho, com o objetivo de salvar os amigos de Yoshi. A aventura culmina no imponente castelo de Bowser, onde travam uma batalha épica contra o próprio vilão. Com coragem e habilidade, eles conseguem enviar Bowser aos céus e, finalmente, resgatam a Princesa Peach, devolvendo a paz à Dinosaur Land."
-            android:textAlignment="center"
-            android:textAllCaps="true"
-            android:textColor="#FFFFFF"
-            android:textSize="14sp"
-            android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.495"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.415" />
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/voltar3"
+                style="@style/Widget.AppCompat.Button.Small"
+                android:layout_width="150dp"
+                android:layout_height="54dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="38dp"
+                android:layout_weight="1"
+                android:background="@drawable/colorbutton"
+                android:fontFamily="@font/alata"
+                android:text="voltar"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.946" />
+
+        </LinearLayout>
+
+
     </ScrollView>
 
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="65dp"
-        app:layout_constraintBottom_toTopOf="@+id/textView4"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.493"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/_e7d3573720894310617dbec05cff744"
-        tools:ignore="NotSibling" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
