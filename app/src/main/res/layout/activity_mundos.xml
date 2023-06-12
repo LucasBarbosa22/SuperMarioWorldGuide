@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:background="@drawable/design_sem_nome__2_"
     tools:context=".MundosAct">
 
@@ -58,16 +58,16 @@
                 android:id="@+id/textView4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
                 android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
                 android:fontFamily="@font/alata"
                 android:text="Uma pequena ilha onde vivem os Yoshis. Os principais inimigos neste mundo incluem Toupeiras Monty, Koopa Troopas, Rexes e alguns outros. Iggy é encontrado em seu castelo no final deste mundo."
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textColor="#FFFFFF"
                 android:textSize="14sp"
-                android:textStyle="bold"
-                android:layout_marginLeft="35dp"
-                android:layout_marginRight="35dp"/>
+                android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -83,26 +83,304 @@
 
             <ImageView
                 android:id="@+id/imageView8"
-                android:layout_width="221dp"
-                android:layout_height="181dp"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
                 android:layout_weight="1"
-                app:srcCompat="@drawable/_22"
-                android:layout_marginTop="10dp"/>
+                app:srcCompat="@drawable/__12_" />
 
             <TextView
                 android:id="@+id/textView14"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
                 android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
                 android:fontFamily="@font/alata"
                 android:text="Um planalto que possui esse nome por ter a forma de uma rosquinha. É conhecido por apresentar a primeira Casa Fantasma e por ser o primeiro a ter uma fase com múltiplas saídas."
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textColor="#FFFFFF"
                 android:textSize="14sp"
-                android:textStyle="bold"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/alata"
+                android:text="Mundo 3 - Vanilla Dome"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/__13_" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_marginLeft="35dp"
-                android:layout_marginRight="35dp"/>
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/alata"
+                android:text="Uma grande caverna cheia de diamantes cintilantes e possui piscinas de lava com os grandes Blarggs vivendo nelas."
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/alata"
+                android:text="Mundo 4 - Twin Bridges"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/__42_" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/alata"
+                android:text="Duas pontes encontradas logo depois da Vanilla Dome. A área de Twin Bridges é parcialmente baseada no céu, pois possui níveis no céu e na terra."
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/alata"
+                android:text="Mundo 5 - Forest of Illusion"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/__15_" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/alata"
+                android:text="Uma floresta com um labirinto, onde Mario ou Luigi às vezes precisam encontrar a saída secreta em um nível para progredir, já que as saídas normais formam um círculo que não leva a lugar algum."
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/alata"
+                android:text="Mundo 6 - Chocolate Island"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/__26_" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/alata"
+                android:text="Uma floresta com um labirinto, onde Mario ou Luigi às vezes precisam encontrar a saída secreta em um nível para progredir, já que as saídas normais formam um círculo que não leva a lugar algum."
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <!--Mundo 7-->
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/alata"
+                android:text="Mundo 7 - Valley of Bowser"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/__17_" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/alata"
+                android:text="Como o próprio nome sugere, o mundo se passa na base de operações do Bowser. Situado num vale dentro de uma enorme gruta que tem o formato da cabeça de Bowser. Seus chefes são Larry Koopa e o próprio Bowser."
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <!--Mundo 8-->
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/alata"
+                android:text="Mundo 8 - Star World"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/__18_" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/alata"
+                android:text="Uma estrada mística localizada bem acima do Mundo do Cogumelo, e está ligada a vários locais ao redor do mundo."
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <!--Mundo 9-->
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/alata"
+                android:text="Mundo 9 - Special Zone"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="225dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/__19_" />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="35dp"
+                android:fontFamily="@font/alata"
+                android:text="É o mundo final e o mais secreto. Pode ser acessada depois que o jogador completa o Star World e pega a saída secreta. Este mundo é conhecido por conter os níveis mais difíceis do jogo, e cada nível possui sua própria mecânica única."
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+                <!--Butão voltar-->
+            <Button
+                android:id="@+id/voltar4"
+                style="@style/Widget.AppCompat.Button.Small"
+                android:layout_width="150dp"
+                android:layout_height="54dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="38dp"
+                android:layout_weight="1"
+                android:background="@drawable/colorbutton"
+                android:fontFamily="@font/alata"
+                android:text="voltar"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.946" />
 
         </LinearLayout>
 
