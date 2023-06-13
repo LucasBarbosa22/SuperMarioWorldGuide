@@ -241,7 +241,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginRight="35dp"
                 android:fontFamily="@font/alata"
-                android:text="Uma floresta com um labirinto, onde Mario ou Luigi às vezes precisam encontrar a saída secreta em um nível para progredir, já que as saídas normais formam um círculo que não leva a lugar algum."
+                android:text="Uma ilha localizada no lado sudeste da Dinosaur Land. O chefe aqui é a Wendy. Este é o único mundo onde Mario e Luigi podem encontrar Dino-Rinos e Dino-Tochas."
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textColor="#FFFFFF"

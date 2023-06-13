@@ -12,7 +12,7 @@
         android:layout_width="310dp"
         android:layout_height="wrap_content"
         android:fontFamily="@font/alata"
-        android:text="Super Mario World, conhecido originalmente como Super Mario Bros. 4 no Japão, é um icônico jogo eletrônico de plataforma desenvolvido e publicado pela Nintendo em 1990, exclusivamente para o console Super Nintendo Entertainment System (SNES).\n\nO objetivo principal é explorar os 9 mundos disponíveis e encontrar as 96 saídas existentes, enquanto resgata a princesa Toadstool das garras do Bowser e liberta os sete Yoshis que estão aprisionados em ovos."
+        android:text="Super Mario World, conhecido originalmente como Super Mario Bros. 4 no Japão, é um icônico jogo eletrônico de plataforma desenvolvido e publicado pela Nintendo em 1990, exclusivamente para o console Super Nintendo Entertainment System (SNES).\n\nO objetivo principal é explorar os 9 mundos disponíveis e encontrar as 96 saídas existentes, enquanto resgata a princesa Peach das garras do Bowser e liberta os sete Yoshis que estão aprisionados em ovos."
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="#FFFFFF"
