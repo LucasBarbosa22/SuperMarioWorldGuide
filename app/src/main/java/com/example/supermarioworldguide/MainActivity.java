@@ -1,6 +1,7 @@
 package com.example.supermarioworldguide;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -9,7 +10,7 @@ import com.example.supermarioworldguide.R.id;
 import com.example.supermarioworldguide.R.layout;
 
 public class MainActivity extends AppCompatActivity {
-    private Button sobre,historia,personagens,mundos;
+    private Button sobre,historia,personagens,mundos, wiki;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,6 +41,16 @@ public class MainActivity extends AppCompatActivity {
         this.mundos.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 MainActivity.this.openMundosAct();
+            }
+        });
+
+        this.wiki = (Button)this.findViewById(id.wiki);
+        this.wiki.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Uri uri= Uri.parse("https://www.mariowiki.com/Super_Mario_World");
+                Intent it = new Intent(Intent.ACTION_VIEW,uri);
+                startActivity(it);
             }
         });
     }

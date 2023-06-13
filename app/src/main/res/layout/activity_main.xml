@@ -22,7 +22,7 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5"
-        app:layout_constraintVertical_bias="0.092"
+        app:layout_constraintVertical_bias="0.063"
         tools:ignore="MissingConstraints" />
 
     <Button
@@ -59,6 +59,25 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/personagens"
         app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/wiki"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="150dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/colorbutton"
+        android:fontFamily="@font/alata"
+        android:text="@string/wiki"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mundos"
+        app:layout_constraintVertical_bias="0.0"
+        tools:text="SAIBA MAIS" />
 
     <Button
         android:id="@+id/historia"
