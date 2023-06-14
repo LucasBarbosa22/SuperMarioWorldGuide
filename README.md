@@ -17,13 +17,21 @@ Lucas Barreto Barbosa:
 </a></h4>
 
 * Nossa aplicação terá as seguintes páginas:
+  - Splash Screen;
   - Menu;
   - Sobre;
   - História;
   - Personagens; 
-  - Mundos.
+  - Mundos;
+  - Saiba Mais;
+  - Ícone.
  
 Em cada uma dessas abas colocamos um botão para voltarmos para o menu.
+
+#### Splash Screen
+<h5 align = "center">
+A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um determinado tempo em milissegundos, antes do app abrir a página principal. No nosso caso queriamos 3 segundos e depois aparecer a tela de menu.
+</a><h5>
 
 #### Menu
 <h5 align = "center">
@@ -55,7 +63,12 @@ Falamos dos principais personagens presentes no jogo.
 
 #### Mundos
 <h5 align = "center">
-Apresntamos uma descrição dos 9 mundos presentes no Super Mario World
+Apresntamos uma descrição dos 9 mundos presentes no Super Mario World.
 </a><h5>
   
     IMAGEM DA PÁGINA "MUNDOS"
+  
+#### Saiba Mais
+<h5 align = "center">
+Definimos esse botão para enviar o usúario uma página no google, no qual essa web tem informações mais detalhadas sobre o Super Mario World.24 
+</a><h5>
