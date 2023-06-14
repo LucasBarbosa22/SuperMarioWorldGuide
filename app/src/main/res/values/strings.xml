@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">SuperMarioWorldGuide</string>
+    <string name="app_name">Guia Super Mario World</string>
     <string name="sobre">SOBRE</string>
     <string name="hist_ria">HISTÓRIA</string>
     <string name="personagens">PERSONAGENS</string>
     <string name="mundos">MUNDOS</string>
     <string name="scroll">Scroll</string>
-    <string name="wiki">SAIBA MAIS</string> />
+    <string name="wiki">SAIBA MAIS</string>
+    />
 </resources>

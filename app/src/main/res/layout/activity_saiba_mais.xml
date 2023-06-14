@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/design_sem_nome__2_"
+    tools:context=".SaibaMaisAct">
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/alata"
+        android:text="APLICATIVO DESENVOLVIDO POR JEFFERSON BISPO E LUCAS BARRETO"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/voltar5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/wiki" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/alata"
+        android:text="VISITE A LOJA DIGITAL DA NINTENDO E ADQUIRA OS JOGOS DA FRANQUIA SUPER MARIO"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.082" />
+
+    <Button
+        android:id="@+id/comprar"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="150dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/colorbutton"
+        android:fontFamily="@font/alata"
+        android:text="COMPRAR"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView30" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="273dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="272dp"
+        android:fontFamily="@font/alata"
+        android:text="TODAS AS INFORMAÇÕES FORAM RETIRADAS DO SUPER MARIO WIKI"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lojas"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/lojas"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="150dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/colorbutton"
+        android:fontFamily="@font/alata"
+        android:text="VER"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView31" />
+
+    <Button
+        android:id="@+id/wiki"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="150dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginBottom="224dp"
+        android:background="@drawable/colorbutton"
+        android:fontFamily="@font/alata"
+        android:text="VISITAR"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView32"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="273dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="420dp"
+        android:fontFamily="@font/alata"
+        android:text="VEJA AS LOJAS FÍSICAS QUE VENDEM OS JOGOS DA FRANQUIA SUPER MARIO MAIS PERTO DE VOCÊ"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/comprar"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/voltar5"
+        style="@style/Widget.AppCompat.Button.Small"
+        android:layout_width="150dp"
+        android:layout_height="54dp"
+        android:background="@drawable/colorbutton"
+        android:fontFamily="@font/alata"
+        android:text="voltar"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.946" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

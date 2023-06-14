@@ -10,7 +10,7 @@ import com.example.supermarioworldguide.R.id;
 import com.example.supermarioworldguide.R.layout;
 
 public class MainActivity extends AppCompatActivity {
-    private Button sobre,historia,personagens,mundos, wiki;
+    private Button sobre,historia,personagens,mundos, saibamais;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -44,17 +44,20 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        this.wiki = (Button)this.findViewById(id.wiki);
-        this.wiki.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Uri uri= Uri.parse("https://www.mariowiki.com/Super_Mario_World");
-                Intent it = new Intent(Intent.ACTION_VIEW,uri);
-                startActivity(it);
+        this.saibamais = (Button)this.findViewById(id.saibamais);
+        this.saibamais.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                MainActivity.this.openSaibaMaisAct();
             }
         });
+
     }
 
+
+    public void openSaibaMaisAct() {
+        Intent intent = new Intent(this, SaibaMaisAct.class);
+        this.startActivity(intent);
+    }
 
     public void openHistoriaAct() {
         Intent intent = new Intent(this, HistoriaAct.class);
