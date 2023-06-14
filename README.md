@@ -70,5 +70,5 @@ Apresntamos uma descrição dos 9 mundos presentes no Super Mario World.
   
 #### Saiba Mais
 <h5 align = "center">
-Definimos esse botão para enviar o usúario uma página no google, no qual essa web tem informações mais detalhadas sobre o Super Mario World.24 
+Definimos esse botão para enviar o usúario uma página no google, no qual essa web tem informações mais detalhadas sobre o Super Mario World.
 </a><h5>
