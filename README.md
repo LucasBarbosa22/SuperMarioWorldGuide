@@ -43,7 +43,7 @@ No menu apresentamos o nome do jogo, uma imagem de fundo do Super Mario World e 
 </a><h5>
   
 <h1 align="center">
-     <a><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/516c9403-6ac8-4071-9056-35dbdce00f6e"  height ="550" </a>
+  <a><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/8592b4fa-92ed-4e31-8797-39683113c8f8"  height ="550"></a> <a><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/1f44ae79-eec6-4b52-b891-70d9f0e88208"  height ="550" </a>
      <br>
  </h1>
  
@@ -52,31 +52,52 @@ No menu apresentamos o nome do jogo, uma imagem de fundo do Super Mario World e 
 <h5 align = "center">
 Algumas curiosidades e especificações sobre o jogo.
 </a><h5>
-  
-    IMAGEM DA PÁGINA "SOBRE"
+       
+<h1 align="center">
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/abb21e68-b6b5-4539-89e8-13b70dcae14e"  height ="550"></a>
+  <br>
+</h1>         
 
 #### História
 <h5 align = "center">
 Descrevemos sobre o enredo do Super Mario World.
 </a><h5>
   
-    IMAGEM DA PÁGINA "HISTÓRIA"
+<h1 align="center">
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src=""  height ="550"></a>
+  <br>
+</h1>
 
 #### Personagens
 <h5 align = "center">
 Falamos dos principais personagens presentes no jogo.
 </a><h5>
   
-    IMAGEM DA PÁGINA "PERSONAGENS"
+<h1 align="center">
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/abb21e68-b6b5-4539-89e8-13b70dcae14e"  height ="550"></a>
+  <br>
+</h1>
 
 #### Mundos
 <h5 align = "center">
 Apresntamos uma descrição dos 9 mundos presentes no Super Mario World.
 </a><h5>
   
-    IMAGEM DA PÁGINA "MUNDOS"
+<h1 align="center">
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/abb21e68-b6b5-4539-89e8-13b70dcae14e"  height ="550"></a>
+  <br>
+</h1>
   
 #### Saiba Mais
 <h5 align = "center">
-Definimos esse botão para enviar o usúario uma página no google, no qual essa web tem informações mais detalhadas sobre o Super Mario World.
+Definimos esse botão como uma ponte para enviar o usúario numa página no google, no qual essa aba tem informações mais detalhadas sobre o jogo do Super Mario World. Ao clicarmos no botão somos mandados para uma nova aba no aplicativo, dentro dela tem mais três opções que levaram o usúario ao google.
 </a><h5>
+
+  * Na primeira, leva para uma página de compras virtuais do jogo Super Mario World;
+  * Na segunda, é o google map mostrando as lojas físicas mais próximas que contém o jogo;
+  * E na terceira, somos direcionados para uma wiki do Super Mario World, que contém informações mais minuciosas do jogo.
+  
+<h1 align="center">
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/abb21e68-b6b5-4539-89e8-13b70dcae14e"  height ="550"></a>
+  <br>
+</h1>
