@@ -64,7 +64,7 @@ Descrevemos sobre o enredo do Super Mario World.
 </a><h5>
   
 <h1 align="center">
-  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src=""  height ="550"></a>
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/811951fe-e823-4815-8314-86884bb4549b"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b870ebf2-53df-4a27-bfa4-2f6287befdb7"  height ="550"></a>
   <br>
 </h1>
 
@@ -74,7 +74,7 @@ Falamos dos principais personagens presentes no jogo.
 </a><h5>
   
 <h1 align="center">
-  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/abb21e68-b6b5-4539-89e8-13b70dcae14e"  height ="550"></a>
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/6445e005-1a9d-4966-8d44-0bbc8ebf0bc0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/a1118e13-f8fe-4b67-aba4-bab51355cf68"  height ="550"></a>
   <br>
 </h1>
 
@@ -84,7 +84,7 @@ Apresntamos uma descrição dos 9 mundos presentes no Super Mario World.
 </a><h5>
   
 <h1 align="center">
-  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/abb21e68-b6b5-4539-89e8-13b70dcae14e"  height ="550"></a>
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/c2222b8a-abfc-4d64-b2d8-f8dde3996cc3"  height ="550"></a> <a align= "center"><img src=""  height ="550"></a>
   <br>
 </h1>
   
@@ -98,6 +98,6 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
   * E na terceira, somos direcionados para uma wiki do Super Mario World, que contém informações mais minuciosas do jogo.
   
 <h1 align="center">
-  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/abb21e68-b6b5-4539-89e8-13b70dcae14e"  height ="550"></a>
+  <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/b7f58cbe-42c8-44e4-b0de-feb5281c7cb0"  height ="550"></a> <a align= "center"><img src=""  height ="550"></a>
   <br>
 </h1>
