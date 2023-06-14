@@ -16,6 +16,10 @@ Lucas Barreto Barbosa:
   Nessa aplicação contém informações sobre o jogo, como a história, os personagens, fases e algumas curiosidades.
 </a></h4>
 
+<br>
+<p align="center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/48b253f0-1a8d-4734-9366-a49072def0d5.gif"/></p>
+<br>
+
 * Nossa aplicação terá as seguintes páginas:
   - Splash Screen;
   - Menu;
@@ -26,7 +30,7 @@ Lucas Barreto Barbosa:
   - Saiba Mais;
   - Ícone.
  
-Em cada uma dessas abas colocamos um botão para voltarmos para o menu.
+** Em cada uma dessas abas colocamos um botão para voltarmos para o menu. 
 
 #### Splash Screen
 <h5 align = "center">
@@ -38,8 +42,12 @@ A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um deter
 No menu apresentamos o nome do jogo, uma imagem de fundo do Super Mario World e mais quatro botões que irão lincar com as outras abas.
 </a><h5>
   
-    IMAGEM DA PÁGINA "MENU"
-
+<h1 align="center">
+     <a><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/516c9403-6ac8-4071-9056-35dbdce00f6e"  height ="550" </a>
+     <br>
+ </h1>
+ 
+  
 #### Sobre
 <h5 align = "center">
 Algumas curiosidades e especificações sobre o jogo.
