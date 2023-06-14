@@ -106,3 +106,7 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
   <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/06952b53-9da8-46e9-ae4a-1876c40db6a8"  height ="550"></a> <a align= "center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/35b1bd39-5f83-4c97-abb9-b7db98deb8a4"  height ="550"></a>
   <br>
 </h1>
+
+### Funcionamento completo do app
+
+<a href="https://www.youtube.com/watch?v=01XI8Fud3x0" target="_blank"><img src="![youtube](https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/e12b7370-6426-4d10-83ed-c32910c0c94e)" alt="YouTube" width="40" height="40"/> </a>
