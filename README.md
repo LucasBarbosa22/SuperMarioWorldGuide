@@ -109,6 +109,6 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
 
 ## Funcionamento completo do app
   
-<a href="https://www.youtube.com/watch?v=0lgAIjua6pA&list=RD1WTTZQCfRjM&index=13" target="_blank"> <img src="" alt="YouTube" width="40" height="40"/> </a>
+<a href="https://music.youtube.com" target="_blank"> <img src="https://user-images.githubusercontent.com/95586174/235008364-2d1f74dc-5c12-421d-8440-d59b731c33b0.png" alt="YTmusic" width="40" height="40"/> </a>
   
   * Para conseguir ver tudo do app funcionando, clique na logo do YouTube, que será direcionado para o vídeo
