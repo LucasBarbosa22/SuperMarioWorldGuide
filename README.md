@@ -108,7 +108,7 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
 </h1>
 
 ## Funcionamento completo do app
-
-  * Para conseguir ver tudo do app funcionando, clique na logo do YouTube, que será direcionado para o vídeo
   
-<a href="https://www.youtube.com/watch?v=01XI8Fud3x0" target="_blank"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/e12b7370-6426-4d10-83ed-c32910c0c94e" alt="YouTube" width="80" height="80"/> </a>
+<a href="https://www.youtube.com/watch?v=0lgAIjua6pA&list=RD1WTTZQCfRjM&index=13" target="_blank"> <img src="" alt="YouTube" width="40" height="40"/> </a>
+  
+  * Para conseguir ver tudo do app funcionando, clique na logo do YouTube, que será direcionado para o vídeo
