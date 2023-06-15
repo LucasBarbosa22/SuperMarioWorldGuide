@@ -109,6 +109,4 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
 
 ## Funcionamento completo do app
   
-<a href="https://music.youtube.com" target="_blank"> <img src="https://user-images.githubusercontent.com/95586174/235008364-2d1f74dc-5c12-421d-8440-d59b731c33b0.png" alt="YTmusic" width="40" height="40"/> </a>
-  
-  * Para conseguir ver tudo do app funcionando, clique na logo do YouTube, que será direcionado para o vídeo
+<a href="https://www.youtube.com" target="_blank"> <img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/78488794-2422-4427-a79e-2d5f86f72b19" alt="YouTube" width="40" height="40"/> </a>
