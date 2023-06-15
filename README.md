@@ -53,7 +53,7 @@ No menu apresentamos o nome do jogo, uma imagem de fundo do Super Mario World e 
  </h1>
  
   
-<h1 align= "center"> SOSBRE </h1>
+<h1 align= "center"> SOBRE </h1>
 <h5 align = "center">
 Algumas curiosidades e especificações sobre o jogo.
 </a><h5>
@@ -109,4 +109,4 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
 
 ## Funcionamento completo do app
   
-<a href="https://www.youtube.com" target="_blank"> <img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/78488794-2422-4427-a79e-2d5f86f72b19" alt="YouTube" width="40" height="40"/> </a>
+<a href="https://www.youtube.com" target="_blank"> <img src="" alt="YouTube" width="40" height="40"/> </a>
