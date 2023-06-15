@@ -107,6 +107,11 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
   <br>
 </h1>
 
-## Funcionamento completo do app
+## FUNCIONAMENTO COMPLETO DO APP
   
-<a href="https://www.youtube.com" target="_blank"> <img src="" alt="YouTube" width="40" height="40"/> </a>
+* Clique no link abaixo para ser direcionado ao vídeo do procedimento do aplicativo.
+  
+[![APP-SUPER_MARIO_WORLD](https://img.youtube.com/vi/01XI8Fud3x0)](https://www.youtube.com/watch?v=01XI8Fud3x0)
+  
+![Aplicativo_-_Vídeo_AdobeExpress](https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/47b657ae-6aa0-4c0a-9298-6d03563f0a27) 
+
