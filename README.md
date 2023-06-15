@@ -85,7 +85,7 @@ Falamos dos principais personagens presentes no jogo.
 
 <h1 align="center"> MUNDOS </h1>
 <h5 align = "center">
-Apresntamos uma descrição dos 9 mundos presentes no Super Mario World.
+Apresentamos uma descrição dos 9 mundos presentes no Super Mario World.
 </a><h5>
   
 <h1 align="center">
@@ -107,6 +107,8 @@ Definimos esse botão como uma ponte para enviar o usúario numa página no goog
   <br>
 </h1>
 
-### Funcionamento completo do app
+## Funcionamento completo do app
 
-<a href="https://www.youtube.com/watch?v=01XI8Fud3x0" target="_blank"><img src="![youtube](https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/e12b7370-6426-4d10-83ed-c32910c0c94e)" alt="YouTube" width="40" height="40"/> </a>
+  * Para conseguir ver tudo do app funcionando, clique na logo do YouTube, que será direcionado para o vídeo
+  
+<a href="https://www.youtube.com/watch?v=01XI8Fud3x0" target="_blank"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/e12b7370-6426-4d10-83ed-c32910c0c94e" alt="YouTube" width="80" height="80"/> </a>
