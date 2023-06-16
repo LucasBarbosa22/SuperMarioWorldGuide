@@ -20,7 +20,7 @@ Lucas Barreto Barbosa:
 <p align="center"><img src="https://github.com/LucasBarbosa22/SuperMarioWorldGuide/assets/101645699/48b253f0-1a8d-4734-9366-a49072def0d5.gif"/></p>
 <br>
 
-* Nossa aplicação terá as seguintes páginas:
+* Nossa aplicação apresenta as seguintes páginas:
   - Splash Screen;
   - Menu;
   - Sobre;
@@ -30,11 +30,11 @@ Lucas Barreto Barbosa:
   - Saiba Mais;
   - Ícone.
  
-#### Em cada uma dessas abas colocamos um botão para voltarmos para o menu, exceto a "Splash Screen" e o "Ícone". 
+#### Em cada uma dessas abas colocamos um botão para voltarmos para o menu, exceto a "Splash Screen" e o "Ícone", porque são coisas mais visuais. 
 
 <h1 align= "center"> SPLASH SCREEN </h1>
 <h5 align = "center">
-A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um determinado tempo em milissegundos no código, antes do app abrir a página principal. No nosso caso queriamos 3 segundos(3000ms) e depois aparecer a tela de menu. Por exemplo é o app do Spotify, quando abrimos o aplicativo ele fica cerca 3 a 4 segundos com a logo da empresa na tela e depois abre a página inicial.
+A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um determinado tempo em milissegundos no código, antes do app abrir a página principal. No nosso caso queriamos 3 segundos(3000ms) e, logo após, aparecer a tela de menu. Por exemplo o app do Spotify, quando abrimos o aplicativo ele fica cerca 3 a 4 segundos com a logo da empresa na tela e depois abre a página inicial.
 </a><h5>
 
 <h1 align="center">
@@ -44,7 +44,7 @@ A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um deter
   
 <h1 align= "center"> MENU </h1>
 <h5 align = "center">
-No menu apresentamos o nome do jogo, uma imagem de fundo do Super Mario World e mais quatro botões que irão lincar com as outras abas.
+No menu apresentamos o nome do jogo, uma imagem de fundo do Super Mario World e mais cinco botões que irão lincar com as outras abas com mais informações do jogo.
 </a><h5>
   
 <h1 align="center">
@@ -55,7 +55,7 @@ No menu apresentamos o nome do jogo, uma imagem de fundo do Super Mario World e 
   
 <h1 align= "center"> SOBRE </h1>
 <h5 align = "center">
-Algumas curiosidades e especificações sobre o jogo.
+No botão de sobre algumas curiosidades e especificações básicas sobre o jogo. Como: ano de lançamento, empresa desenvolvedora e mais outros detalhes.
 </a><h5>
        
 <h1 align="center">
@@ -65,7 +65,7 @@ Algumas curiosidades e especificações sobre o jogo.
 
 <h1 align= "center"> HISTÓRIA </h1>
 <h5 align = "center">
-Descrevemos sobre o enredo do Super Mario World.
+Nesse descrevemos a aventura do mundo de Super Mario World.
 </a><h5>
   
 <h1 align="center">
@@ -75,7 +75,7 @@ Descrevemos sobre o enredo do Super Mario World.
 
 <h1 align= "center"> PERSONAGENS </h1>
 <h5 align = "center">
-Falamos dos principais personagens presentes no jogo.
+No botão de personagem, leva para uma nova página e nela falamos, brevemente, dos principais personagens presentes no jogo.
 </a><h5>
   
 <h1 align="center">
@@ -85,7 +85,7 @@ Falamos dos principais personagens presentes no jogo.
 
 <h1 align="center"> MUNDOS </h1>
 <h5 align = "center">
-Apresentamos uma descrição dos 9 mundos presentes no Super Mario World.
+Apresentamos uma descrição e imagens de cada um dos 9 mundos abrangentes na história do jogo.
 </a><h5>
   
 <h1 align="center">
