@@ -12,7 +12,7 @@ Lucas Barreto Barbosa:
 # Explicação do projeto
 
 <h4 align = "center">
-  Criamos uma aplicação, onde, falamos alguns detalhes do jogo Super Mario World, também como Super Mario Bros. 4 lá no Japão. 
+  Criamos uma aplicação, onde, falamos alguns detalhes do jogo Super Mario World, também conhecido como Super Mario Bros. 4 lá no Japão. 
   Nessa aplicação contém informações sobre o jogo, como a história, os personagens, fases e algumas curiosidades. Para podermos mostrar essas informações foi preciso implementação de Intents: "implícitas" e "explícitas".
 </a></h4>
 
@@ -30,11 +30,11 @@ Lucas Barreto Barbosa:
   - Saiba Mais;
   - Ícone.
  
-#### Em cada uma dessas abas colocamos um botão para voltarmos para o menu, exceto a "Splash Screen" e o "Ícone", porque são coisas mais visuais. 
+#### Em cada uma dessas abas colocamos um botão para voltarmos para o menu, exceto a "Splash Screen" e o "Ícone", porque são coisas mais visuais. Com relação a elementos de tela, numa revisão geral, colocamos: TextView, ImageView, ScrollView, Button e além de LinearLayout, tanto horizontal quanto vertical e ConstraintLayout.
 
 <h1 align= "center"> SPLASH SCREEN </h1>
 <h5 align = "center">
-A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um determinado tempo em milissegundos no código, antes do app abrir a página principal. No nosso caso queriamos 3 segundos(3000ms) e, logo após, aparecer a tela de menu. Por exemplo o app do Spotify, quando abrimos o aplicativo ele fica cerca 3 a 4 segundos com a logo da empresa na tela e depois abre a página inicial.
+A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um determinado tempo em milissegundos no código, antes do app abrir a página principal. No nosso caso queriamos 1 segundos(1000ms) e, logo após, aparecer a tela de menu. Por exemplo o app do Spotify, quando abrimos o aplicativo ele fica cerca 3 a 4 segundos com a logo da empresa na tela e depois abre a página inicial.
 </a><h5>
 
 <h1 align="center">
