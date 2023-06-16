@@ -13,7 +13,7 @@ Lucas Barreto Barbosa:
 
 <h4 align = "center">
   Criamos uma aplicação, onde, falamos alguns detalhes do jogo Super Mario World, também como Super Mario Bros. 4 lá no Japão. 
-  Nessa aplicação contém informações sobre o jogo, como a história, os personagens, fases e algumas curiosidades.
+  Nessa aplicação contém informações sobre o jogo, como a história, os personagens, fases e algumas curiosidades. Para podermos mostrar essas informações foi preciso implementação de Intents: "implícitas" e "explícitas".
 </a></h4>
 
 <br>
@@ -34,7 +34,7 @@ Lucas Barreto Barbosa:
 
 <h1 align= "center"> SPLASH SCREEN </h1>
 <h5 align = "center">
-A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um determinado tempo em milissegundos, antes do app abrir a página principal. No nosso caso queriamos 3 segundos e depois aparecer a tela de menu.
+A "Splash Screen" ela é uma tela onde aparece a logo do aplicativo por um determinado tempo em milissegundos no código, antes do app abrir a página principal. No nosso caso queriamos 3 segundos(3000ms) e depois aparecer a tela de menu. Por exemplo é o app do Spotify, quando abrimos o aplicativo ele fica cerca 3 a 4 segundos com a logo da empresa na tela e depois abre a página inicial.
 </a><h5>
 
 <h1 align="center">
