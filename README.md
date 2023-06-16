@@ -10,7 +10,7 @@ Lucas Barreto Barbosa:
 > GitHub [@LucasBarbosa22](https://github.com/LucasBarbosa22) &nbsp;&middot;&nbsp;
 
 ## Aviso
-Foi corrigindo presencialmente no dia 16/06/2023
+Foi corrigido presencialmente no dia 16/06/2023
 
 # Explicação do projeto
 
